@@ -43,7 +43,7 @@ function Blog() {
                 <div className="card-custom-image rounded-4">
                   <img
                     className="rounded-4"
-                    src="./assets/img/blog-post-1.jpg"
+                    src="./assets/img/blog-post-2.jpg"
                     alt=""
                   />
                 </div>
@@ -67,7 +67,7 @@ function Blog() {
                 <div className="card-custom-image rounded-4">
                   <img
                     className="rounded-4"
-                    src="./assets/img/blog-post-1.jpg"
+                    src="./assets/img/blog-post-3.jpg"
                     alt=""
                   />
                 </div>
