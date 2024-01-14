@@ -2,7 +2,7 @@ import React from "react";
 import Home from "../sections/Home";
 import Services from "../sections/Services";
 import Work from "../sections/Work";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 
 function Main() {
