@@ -15,13 +15,13 @@ function Home() {
               />
             </div>
             <div className="col-lg-10 text-center text-lg-start">
-              {/* <h1 className="display-4 fw-bold" data-aos="fade-up">
+              <h1 className="display-4 fw-bold" data-aos="fade-up">
                 Hi, I'm Laksh
                 <br />
                 WEB <span className="text-heading">DESIGNER
                 </span>
                 <br /> FROM DELHI, INDIA
-              </h1> */}
+              </h1>
               <p
                 className="lead mt-2 mb-4"
                 data-aos="fade-up"
