@@ -13,7 +13,6 @@ function Blog() {
           </div>
 
           <div className="row gy-4">
-            {/* Repeat the following block for each blog post */}
             <div className="col-md-4" data-aos="fade-up">
               <div className="card-custom rounded-4 bg-base shadow-effect">
                 <div className="card-custom-image rounded-4">

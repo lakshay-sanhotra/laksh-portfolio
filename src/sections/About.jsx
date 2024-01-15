@@ -18,7 +18,6 @@ function About() {
                 Education
               </h3>
               <div className="row gy-4">
-                {/* Repeat the following block for each education item */}
                 <div className="col-12" data-aos="fade-up" data-aos-delay="600">
                   <div className="bg-base p-4 rounded-4 shadow-effect">
                     <h4>Master of Software Engineering</h4>
