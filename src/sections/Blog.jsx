@@ -1,4 +1,5 @@
 import React from "react";
+import Title from "../components/Title";
 
 function Blog() {
   return (
@@ -7,8 +8,7 @@ function Blog() {
         <div className="container">
           <div className="row pb-4" data-aos="fade-up">
             <div className="col-lg-8">
-              <h6 className="text-brand">BLOG</h6>
-              <h1>My Blog Posts</h1>
+            <Title heading={"BLOG"} subHeading={"My Blog Posts"}/>
             </div>
           </div>
 

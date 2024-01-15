@@ -1,4 +1,5 @@
 import React from "react";
+import Title from "../components/Title";
 
 function Reviews() {
   return (
@@ -7,8 +8,7 @@ function Reviews() {
         <div className="container">
           <div className="row pb-4" data-aos="fade-up">
             <div className="col-lg-8">
-              <h6 className="text-brand">REVIEWS</h6>
-              <h1>What our subscribers say</h1>
+            <Title heading={"REVIEWS"} subHeading={"What our subscribers say"}/>
             </div>
           </div>
 

@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import Title from "../components/Title";
 
 function Contact() {
   return (
@@ -8,8 +9,7 @@ function Contact() {
 
         <div className="row justify-content-center text-center">
           <div className="col-lg-8 pb-4" data-aos="fade-up">
-            <h6 className="text-brand">CONTACT</h6>
-            <h1>Interested in working together? Let's talk</h1>
+          <Title heading={"CONTACT"} subHeading={"Interested in working together? Let's talk"}/>
           </div>
 
           <div className="col-lg-8" data-aos="fade-up" data-aos-delay="300">
