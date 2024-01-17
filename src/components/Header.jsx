@@ -9,7 +9,7 @@ function Header() {
             <a className="navbar-brand mx-lg-auto mb-lg-4" href="#">
               <span
                 className="h3 fw-bold d-block d-lg-none m-0"
-                style={{ fontSize: '30px' }}
+                style={{ fontSize: "30px" }}
               >
                 Laksh
               </span>
@@ -28,12 +28,15 @@ function Header() {
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
-              <i className="las la-bars text-white" style={{ fontSize: '30px' }}></i>
+              <i
+                className="las la-bars text-white"
+                style={{ fontSize: "30px" }}
+              ></i>
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto flex-lg-column text-center ">
                 <li className="nav-item">
-                  <a className="nav-link active" href="#home">
+                  <a className="nav-link" href="#home">
                     Home
                   </a>
                 </li>
@@ -74,6 +77,6 @@ function Header() {
       </header>
     </>
   );
-};
+}
 
 export default Header;
