@@ -36,7 +36,7 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto flex-lg-column text-center ">
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
+                  <a className="nav-link" href="#home">
                     Home
                   </a>
                 </li>
