@@ -1,5 +1,7 @@
 import React from 'react';
 import Title from "../components/Title";
+import Form from '../components/Form';
+
 
 function Contact() {
   return (
@@ -13,23 +15,7 @@ function Contact() {
           </div>
 
           <div className="col-lg-8" data-aos="fade-up" data-aos-delay="300">
-            <form className="row g-lg-3 gy-3" id="form">
-              <div className="form-group col-md-6">
-                <input type="text" className="form-control" name="from_name" placeholder="Enter your name" />
-              </div>
-              <div className="form-group col-md-6">
-                <input type="email" className="form-control" name="email_id" placeholder="Enter your email" />
-              </div>
-              <div className="form-group col-12">
-                <input type="text" className="form-control" name="subject" placeholder="Enter subject" />
-              </div>
-              <div className="form-group col-12">
-                <textarea rows="4" className="form-control" name="message" placeholder="Enter your message"></textarea>
-              </div>
-              <div className="form-group col-12 d-grid">
-                <button type="submit" className="btn btn-brand" id="form_submit_btn">Contact me</button>
-              </div>
-            </form>
+            <Form/>
           </div>
         </div>
 
