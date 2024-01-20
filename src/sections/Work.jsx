@@ -31,7 +31,7 @@ function Work() {
                   </p>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
@@ -58,7 +58,7 @@ function Work() {
                   </p>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
@@ -85,7 +85,7 @@ function Work() {
                   </p>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
@@ -112,7 +112,7 @@ function Work() {
                   </p>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More

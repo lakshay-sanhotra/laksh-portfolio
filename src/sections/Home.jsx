@@ -1,4 +1,5 @@
 import React from "react";
+import TypingText from "../components/TypingText";
 
 function Home() {
   return (
@@ -18,8 +19,7 @@ function Home() {
               <h1 className="display-4 fw-bold" data-aos="fade-up">
                 Hi, I'm Laksh
                 <br />
-                WEB <span className="text-heading">DESIGNER
-                </span>
+                WEB <TypingText/>
                 <br /> FROM DELHI, INDIA
               </h1>
               <p

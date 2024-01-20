@@ -22,7 +22,7 @@ function Services() {
               <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
               <a
                 target="_blank"
-                href="https://www.instagram.com/webdev.laksh/"
+                href="https://www.instagram.com/mrcoder_xd/"
                 className="link-custom"
               >
                 Read More
@@ -39,7 +39,7 @@ function Services() {
               <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
               <a
                 target="_blank"
-                href="https://www.instagram.com/webdev.laksh/"
+                href="https://www.instagram.com/mrcoder_xd/"
                 className="link-custom"
               >
                 Read More
@@ -56,7 +56,7 @@ function Services() {
               <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
               <a
                 target="_blank"
-                href="https://www.instagram.com/webdev.laksh/"
+                href="https://www.instagram.com/mrcoder_xd/"
                 className="link-custom"
               >
                 Read More

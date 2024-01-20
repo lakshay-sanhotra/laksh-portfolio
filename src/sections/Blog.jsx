@@ -29,7 +29,7 @@ function Blog() {
                   </h5>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
@@ -53,7 +53,7 @@ function Blog() {
                   </h5>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
@@ -77,7 +77,7 @@ function Blog() {
                   </h5>
                   <a
                     target="_blank"
-                    href="https://www.instagram.com/webdev.laksh/"
+                    href="https://www.instagram.com/mrcoder_xd/"
                     className="link-custom"
                   >
                     Read More
