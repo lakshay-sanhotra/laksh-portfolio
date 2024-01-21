@@ -1,5 +1,7 @@
 import React from "react";
 import Title from "../components/Title";
+import WorkCard from "../components/WorkCard";
+import { workCards } from "../constants";
 
 function Work() {
   return (
@@ -8,118 +10,13 @@ function Work() {
         <div className="container">
           <div className="row pb-4" data-aos="fade-up">
             <div className="col-lg-8">
-            <Title heading={"WORK"} subHeading={"My Recent Projects"}/>
+              <Title heading={"WORK"} subHeading={"My Recent Projects"} />
             </div>
           </div>
-
           <div className="row gy-4">
-            <div className="col-md-6" data-aos="fade-up">
-              <div className="card-custom rounded-4 bg-base shadow-effect">
-                <div className="card-custom-image rounded-4">
-                  <img
-                    className="rounded-4"
-                    src="./assets/img/project-1.jpg"
-                    alt=""
-                  />
-                </div>
-                <div className="card-custom-content p-4">
-                  <h4>Landing page website</h4>
-                  <p>
-                    Innovation that exceeds expectations. Astra is a true
-                    template equipped with all the elements you could ever need
-                    to put together
-                  </p>
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/mrcoder_xd/"
-                    className="link-custom"
-                  >
-                    Read More
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-md-6" data-aos="fade-up" data-aos-delay="300">
-              <div className="card-custom rounded-4 bg-base shadow-effect">
-                <div className="card-custom-image rounded-4">
-                  <img
-                    className="rounded-4"
-                    src="./assets/img/project-2.png"
-                    alt=""
-                  />
-                </div>
-                <div className="card-custom-content p-4">
-                  <h4>eCommerce website</h4>
-                  <p>
-                    Innovation that exceeds expectations. Astra is a true
-                    template equipped with all the elements you could ever need
-                    to put together
-                  </p>
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/mrcoder_xd/"
-                    className="link-custom"
-                  >
-                    Read More
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-md-6" data-aos="fade-up">
-              <div className="card-custom rounded-4 bg-base shadow-effect">
-                <div className="card-custom-image rounded-4">
-                  <img
-                    className="rounded-4"
-                    src="./assets/img/project-3.png"
-                    alt=""
-                  />
-                </div>
-                <div className="card-custom-content p-4">
-                  <h4>Service website</h4>
-                  <p>
-                    Innovation that exceeds expectations. Astra is a true
-                    template equipped with all the elements you could ever need
-                    to put together
-                  </p>
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/mrcoder_xd/"
-                    className="link-custom"
-                  >
-                    Read More
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-md-6" data-aos="fade-up" data-aos-delay="300">
-              <div className="card-custom rounded-4 bg-base shadow-effect">
-                <div className="card-custom-image rounded-4">
-                  <img
-                    className="rounded-4"
-                    src="./assets/img/project-4.png"
-                    alt=""
-                  />
-                </div>
-                <div className="card-custom-content p-4">
-                  <h4>Blog website</h4>
-                  <p>
-                    Innovation that exceeds expectations. Astra is a true
-                    template equipped with all the elements you could ever need
-                    to put together
-                  </p>
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/mrcoder_xd/"
-                    className="link-custom"
-                  >
-                    Read More
-                  </a>
-                </div>
-              </div>
-            </div>
+            {workCards.map((workCard) => (
+              <WorkCard key={workCard.title} {...workCard} />
+            ))}
           </div>
         </div>
       </section>
