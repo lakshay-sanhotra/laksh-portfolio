@@ -1,0 +1,17 @@
+{
+    "name": "lakshportfolio",
+    "short_name": "lakshportfolio",
+    "description": "description",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff9ea",
+    "theme_color": "#fff9ea",
+    "icons": [
+      {
+        "src": "assets/img/logo144.png",
+        "sizes": "144x144",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
+  
