@@ -14,7 +14,7 @@ function Header() {
                 Laksh
               </span>
               <img
-                src="assets/img/logo.jpg"
+                src="assets/img/logo.png"
                 className="d-none d-lg-block rounded-4"
                 alt=""
               ></img>

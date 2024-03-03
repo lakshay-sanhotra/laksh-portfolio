@@ -9,7 +9,7 @@ function Home() {
           <div className="row">
             <div className="col-12 d-lg-none d-flex justify-content-center">
               <img
-                src="assets/img/logo.jpg"
+                src="assets/img/logo.png"
                 className="rounded-circle w-50 img-fluid"
                 alt="hello"
                 style={{ border: "8px solid var(--heading-color)" }}
