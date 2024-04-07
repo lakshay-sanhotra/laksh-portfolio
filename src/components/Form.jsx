@@ -33,6 +33,7 @@ function Form() {
             className="form-control"
             name="from_name"
             placeholder="Enter your name"
+            required
           />
         </div>
         <div className="form-group col-md-6">
@@ -41,6 +42,7 @@ function Form() {
             className="form-control"
             name="email_id"
             placeholder="Enter your email"
+            required
           />
         </div>
         <div className="form-group col-12">
@@ -49,6 +51,7 @@ function Form() {
             className="form-control"
             name="subject"
             placeholder="Enter subject"
+            required
           />
         </div>
         <div className="form-group col-12">
@@ -57,6 +60,7 @@ function Form() {
             className="form-control"
             name="message"
             placeholder="Enter your message"
+            required
           ></textarea>
         </div>
         <div className="form-group col-12 d-grid">
