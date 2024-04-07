@@ -27,10 +27,11 @@ function Header() {
               aria-controls="navbarNav"
               aria-expanded="false"
               aria-label="Toggle navigation"
+              style={{ border: "0px" }}
             >
               <i
                 className="las la-bars text-white"
-                style={{ fontSize: "30px" }}
+                style={{ fontSize: "35px" }}
               ></i>
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
