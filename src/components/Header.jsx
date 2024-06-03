@@ -57,11 +57,6 @@ function Header() {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#reviews">
-                    Reviews
-                  </a>
-                </li>
-                <li className="nav-item">
                   <a className="nav-link" href="#blog">
                     Blog
                   </a>
