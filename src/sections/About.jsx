@@ -34,7 +34,7 @@ function About() {
                   <div className="bg-base p-4 rounded-4 shadow-effect">
                     <h4>Senior Secondary (12th Grade)</h4>
                     <p className="text-brand mb-2">
-                    D.A.V Senior Secondary School (2021 - 2022)
+                    Sarvodaya Vidyalaya, Mukherjee nagar, Delhi (2021 - 2022)
                     </p>
                     <p className="mb-0">
                       All we are more and design lorem ipsum dolor creativity
