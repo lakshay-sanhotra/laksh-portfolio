@@ -41,11 +41,11 @@ function Header() {
                     Home
                   </a>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <a className="nav-link" href="#services">
                     Services
                   </a>
-                </li>
+                </li> */}
                 <li className="nav-item">
                   <a className="nav-link" href="#work">
                     Work

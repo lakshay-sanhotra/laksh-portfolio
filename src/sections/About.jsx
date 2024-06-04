@@ -20,9 +20,9 @@ function About() {
               <div className="row gy-4">
                 <div className="col-12" data-aos="fade-up" data-aos-delay="600">
                   <div className="bg-base p-4 rounded-4 shadow-effect">
-                    <h4>Master of Software Engineering</h4>
+                    <h4>Bachelor of Computer Applications</h4>
                     <p className="text-brand mb-2">
-                      De Mars University Venston Bay (2015 - 2020)
+                    Indira Gandhi National Open University (2023 - 2025)
                     </p>
                     <p className="mb-0">
                       All we are more and design lorem ipsum dolor creativity
@@ -32,9 +32,9 @@ function About() {
                 </div>
                 <div className="col-12" data-aos="fade-up" data-aos-delay="600">
                   <div className="bg-base p-4 rounded-4 shadow-effect">
-                    <h4>Master of Software Engineering</h4>
+                    <h4>Senior Secondary (12th Grade)</h4>
                     <p className="text-brand mb-2">
-                      De Mars University Venston Bay (2015 - 2020)
+                    D.A.V Senior Secondary School (2021 - 2022)
                     </p>
                     <p className="mb-0">
                       All we are more and design lorem ipsum dolor creativity
@@ -53,21 +53,20 @@ function About() {
                 {/* Repeat the following block for each experience item */}
                 <div className="col-12" data-aos="fade-up" data-aos-delay="600">
                   <div className="bg-base p-4 rounded-4 shadow-effect">
-                    <h4>Applications developer</h4>
-                    <p className="text-brand mb-2">Twitter (2018 - 2020)</p>
+                    <h4>Web Developer Intern</h4>
+                    <p className="text-brand mb-2">Eton Academy (2023 - Present)</p>
                     <p className="mb-0">
-                      All we are more and design lorem ipsum dolor creativity
-                      sit amet consectetur adipisicing elit
+                    Developed and maintained websites for clients, ensuring functionality, responsiveness, and user experience.
+
                     </p>
                   </div>
                 </div>
                 <div className="col-12" data-aos="fade-up" data-aos-delay="600">
                   <div className="bg-base p-4 rounded-4 shadow-effect">
-                    <h4>Applications developer</h4>
-                    <p className="text-brand mb-2">Twitter (2018 - 2020)</p>
+                    <h4>Teaching Assistant</h4>
+                    <p className="text-brand mb-2">Eton Academy (2023 - Present)</p>
                     <p className="mb-0">
-                      All we are more and design lorem ipsum dolor creativity
-                      sit amet consectetur adipisicing elit
+                    Assisted in teaching web development courses at Eton Academy, providing guidance and support to students.
                     </p>
                   </div>
                 </div>
