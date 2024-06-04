@@ -37,9 +37,9 @@ export const workCards = [
   {
     aosDelay: "300",
     img: "./assets/img/project-1.png",
-    title: "eCommerce website",
+    title: "Service website",
     description:
-      "Developed a real estate website for property listings in Goa.",
+      "Designed and implemented a website for an interior design firm.",
     link: "https://PurpleLaneInteriors.com/",
   },
   {
