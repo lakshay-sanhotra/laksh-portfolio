@@ -22,7 +22,7 @@ function WorkCard({aosDelay, img, title, description, link}) {
               href={link}
               className="link-custom"
             >
-              Read More
+              Open
             </a>
           </div>
         </div>

@@ -28,19 +28,19 @@ export const serviceCards = [
 export const workCards = [
   {
     aosDelay: "",
-    img: "./assets/img/project-4.png",
-    title: "Landing page website",
+    img: "./assets/img/project-2.png",
+    title: "Landing page",
     description:
-      "Innovation that exceeds expectations. Astra is a true template equipped with all the elements you could ever need to put together",
-    link: "https://www.instagram.com/mrcoder_xd/",
+      "Developed a real estate website for property listings in Goa.",
+    link: "https://MopaGoaPlots.com/",
   },
   {
     aosDelay: "300",
-    img: "./assets/img/project-4.png",
+    img: "./assets/img/project-1.png",
     title: "eCommerce website",
     description:
-      "Innovation that exceeds expectations. Astra is a true template equipped with all the elements you could ever need to put together",
-    link: "https://www.instagram.com/mrcoder_xd/",
+      "Developed a real estate website for property listings in Goa.",
+    link: "https://PurpleLaneInteriors.com/",
   },
   {
     aosDelay: "",
