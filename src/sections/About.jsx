@@ -22,7 +22,7 @@ function About() {
                   <div className="bg-base p-4 rounded-4 shadow-effect">
                     <h4>Bachelor of Computer Applications</h4>
                     <p className="text-brand mb-2">
-                    Indira Gandhi National Open University (2023 - 2025)
+                    Indira Gandhi National Open University (2023 - Present)
                     </p>
                     <p className="mb-0">
                       All we are more and design lorem ipsum dolor creativity
