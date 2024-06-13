@@ -7,7 +7,7 @@ function Footer() {
                 <div className="container">
                     <div className="row gy-4 justify-content-between align-items-center">
                         <div className="col-auto">
-                            <p className="mb-0"><a target="_blank" href="https://www.instagram.com/lakshay_11nov/"
+                            <p className="mb-0">Design by: <a target="_blank" href="https://www.instagram.com/lakshay_11nov/"
                                     className="fw-bold text-brand">Lakshay</a></p>
                         </div>
                         <div className="col-auto">
