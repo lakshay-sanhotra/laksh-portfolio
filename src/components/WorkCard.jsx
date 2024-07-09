@@ -10,6 +10,7 @@ function WorkCard({aosDelay, img, title, description, link}) {
               className="rounded-4"
               src={img}
               alt={title}
+              loading="lazy"
             />
           </div>
           <div className="card-custom-content p-4">

@@ -20,6 +20,7 @@ function Blog() {
                     className="rounded-4"
                     src="./assets/img/blog-post-1.jpg"
                     alt=""
+                    loading="lazy"
                   />
                 </div>
                 <div className="card-custom-content p-4">
@@ -44,6 +45,7 @@ function Blog() {
                     className="rounded-4"
                     src="./assets/img/blog-post-2.jpg"
                     alt=""
+                    loading="lazy"
                   />
                 </div>
                 <div className="card-custom-content p-4">
@@ -68,6 +70,7 @@ function Blog() {
                     className="rounded-4"
                     src="./assets/img/blog-post-3.jpg"
                     alt=""
+                    loading="lazy"
                   />
                 </div>
                 <div className="card-custom-content p-4">
