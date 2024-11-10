@@ -12,8 +12,8 @@ function Footer() {
                         </div>
                         <div className="col-auto">
                             <div className="social-icons">
-                                <a target="_blank" href="https://www.instagram.com/mrcoder_xd/"><i className="lab la-instagram"></i></a>
-                                <a target="_blank" href="https://github.com/laksh11nov"><i className="lab la-github"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/lakshay_sanhotra/"><i className="lab la-instagram"></i></a>
+                                <a target="_blank" href="https://github.com/lakshay-sanhotra"><i className="lab la-github"></i></a>
                             </div>
                         </div>
                     </div>
