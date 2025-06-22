@@ -1,15 +1,15 @@
 {
-    "name": "lakshportfolio",
-    "short_name": "lakshportfolio",
-    "description": "description",
+    "name": "LakshayCodes",
+    "short_name": "LakshayCodes",
+    "description": "Freelance PHP Developer for custom websites, CMS, and web apps.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#fff9ea",
     "theme_color": "#fff9ea",
     "icons": [
       {
-        "src": "assets/img/logo144.png",
-        "sizes": "144x144",
+        "src": "assets/favicon/web-app-manifest-512x512.png",
+        "sizes": "512x512",
         "type": "image/svg+xml"
       }
     ]
