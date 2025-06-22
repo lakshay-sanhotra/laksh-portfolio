@@ -11,7 +11,7 @@ function Header() {
                 className="h3 fw-bold d-block d-lg-none m-0"
                 style={{ fontSize: "30px" }}
               >
-                LakshCodes
+                LakshCodes  
               </span>
               <img
                 src="assets/img/logo.png"
